@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="min-h-screen bg-gradient-to-r from-[#c2c991] to-[#587840] flex flex-col items-center justify-center text-gray-800">
+    <main className="min-h-screen bg-gradient-to-r from-[#c2c991] to-[#637f4f] flex flex-col items-center justify-center text-gray-800">
 
       {/* GIF Header (Using Giphy URL) */}
       <div className="w-full h-72 overflow-hidden">
